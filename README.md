@@ -1,2 +1,0 @@
-# simpleblog
-A simple blog
